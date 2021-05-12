@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bagnatona (Nicholas Bagnato), but I go by Nick.
-- 👀 I’m interested in making it easier for people to navigate through and interact with the online world.
+- 👀 I’m interested in making navigation and interaction with the online world easier.
 - 🌱 I’m currently learning MERN and other JS frameworks.
 - 💞️ I’m looking to collaborate on e-commerce related projects.
 - 📫 How to reach me: bagnatona@gmail.com
