@@ -2,7 +2,7 @@
 - 👀 I’m interested in making navigation and interaction with the online world easier.
 - 🌱 I’m currently learning MERN and other JS frameworks.
 - 💞️ I’m looking to collaborate on e-commerce related projects.
-- 📫 How to reach me: bagnatona@gmail.com
+- 📫 How to reach me: bagnatona@gmail.com or https://www.linkedin.com/in/nicholas-bagnato
 
 <!---
 bagnatona/bagnatona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
